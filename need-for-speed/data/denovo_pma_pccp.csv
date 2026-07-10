@@ -1,0 +1,6 @@
+submission_id,pathway,yr,device,tech
+DEN190040,denovo,2020,Caption Guidance,AI/SaMD
+DEN220063,denovo,2023,Caption Interpretation,AI/SaMD
+DEN230046,denovo,2024,PGDx elio plasma focus Dx,AI/SaMD
+DEN240068,denovo,2025,ArteraAI Prostate,AI/SaMD
+P240040,pma,2025,Oncomine Dx Express,AI/SaMD
